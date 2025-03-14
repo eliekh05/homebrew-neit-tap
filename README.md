@@ -14,7 +14,7 @@ https://github.com/eliekh05/neit-mac-builds/releases
 
 https://oxumlabs.github.io/nsite
 
-# Thanks to:
+# Credits:
 
 [@eliekh05](https://github.com/eliekh05) for mac builds
 

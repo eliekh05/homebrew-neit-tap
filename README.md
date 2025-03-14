@@ -20,4 +20,4 @@ https://oxumlabs.github.io/nsite
 
 [@bilal-algorithms](https://github.com/bilal-algorithms) for helping with management and building the language
 
-[@skub](https://github.com/skubed0007) for the source code of the language
+[@skub](https://github.com/skubed0007) for the building and maintaining and providing the source code of the language

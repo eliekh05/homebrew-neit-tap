@@ -1,5 +1,7 @@
 # Welcome to Homebrew Tap
 
+⚠️⚠️⚠️ THE neit.rb FILE NEEDS TO BE UPDATED MANUALLY EVERY TIME TO BE HAVE NEW BUILD OF THE LANGUAGE ⚠️⚠️⚠️
+
 # To install:
 ```
 brew tap eliekh05/homebrew-neit-tap

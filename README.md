@@ -8,11 +8,11 @@ brew install neit
 ```
 # Links: 
 
-https://github.com/eliekh05/neit-mac-builds
+for mac build repo: https://github.com/eliekh05/neit-mac-builds
 
-https://github.com/eliekh05/neit-mac-builds/releases
+for mac build download: https://github.com/eliekh05/neit-mac-builds/releases
 
-https://oxumlabs.github.io/nsite
+for website: https://oxumlabs.github.io/nsite
 
 # Credits:
 
